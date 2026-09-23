@@ -13,12 +13,15 @@
   <a href="https://www.linkedin.com/in/atiqul-islam-645732199/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"></a>
   <a href="mailto:atiqul58@gmail.com"><img src="https://img.shields.io/badge/Email-atiqul58@gmail.com-blue?style=flat&logo=gmail"></a>
   <img src="https://komarev.com/ghpvc/?username=MdAtiqulislam&color=58A6FF&style=flat&label=Profile+Views">
+  <img src="https://img.shields.io/badge/Open_to_Work-Flutter_%7C_Firebase_%7C_Remote-brightgreen?style=flat&logo=github">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate Mobile App Developer from Bangladesh 🇧🇩 with over **6 years of experience** in software development. Currently, I am working as a Mobile App Developer at **Revinr IT Ltd**, focusing on building scalable, efficient, and user-friendly mobile applications.
+I'm a passionate Mobile App Developer from Bangladesh 🇧🇩 with over **6 years of experience** in software development. Previously, I worked as a Mobile App Developer at **Revinr IT Ltd**, building scalable, efficient, and user-friendly mobile applications.
+
+🟢 **I'm currently open to work** — full-time, contract or remote roles in Flutter / Firebase / mobile development.
 
 My journey started with Native Android (Java) back in 2018, and since 2020, I have been exclusively crafting cross-platform solutions using **Flutter**. From e-commerce platforms to case management apps and delivery systems, I take pride in delivering production-grade applications for both Android and iOS.
 
