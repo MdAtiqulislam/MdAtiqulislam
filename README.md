@@ -20,9 +20,9 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate Mobile App Developer from Bangladesh 🇧🇩 with over **6 years of experience** in software development. Previously, I worked as a Mobile App Developer at **Revinr IT Ltd**, building scalable, efficient, and user-friendly mobile applications.
+I'm a passionate Mobile App Developer from Bangladesh 🇧🇩 with over **6 years of experience** in software development. Currently, I am working as a Mobile App Developer at **Revinr IT Ltd**, focusing on building scalable, efficient, and user-friendly mobile applications.
 
-🟢 **I'm currently open to work** — full-time, contract or remote roles in Flutter / Firebase / mobile development.
+🟢 **Open to new opportunities** — I'm looking to switch and am interested in full-time, contract or remote roles in Flutter / Firebase / mobile development.
 
 My journey started with Native Android (Java) back in 2018, and since 2020, I have been exclusively crafting cross-platform solutions using **Flutter**. From e-commerce platforms to case management apps and delivery systems, I take pride in delivering production-grade applications for both Android and iOS.
 
