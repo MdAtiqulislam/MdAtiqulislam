@@ -12,6 +12,7 @@
   <a href="https://github.com/MdAtiqulislam"><img src="https://img.shields.io/github/followers/MdAtiqulislam?label=Followers&style=social"></a>
   <a href="https://www.linkedin.com/in/atiqul-islam-645732199/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"></a>
   <a href="mailto:atiqul58@gmail.com"><img src="https://img.shields.io/badge/Email-atiqul58@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://docs.google.com/document/d/1rultkGP_VdsPWzgrrj5HeVb3hY6PIdm_nzfeL9P7w2g/edit?usp=sharing"><img src="https://img.shields.io/badge/My_CV-View_Resume-red?style=flat&logo=googledocs&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=MdAtiqulislam&color=58A6FF&style=flat&label=Profile+Views">
   <img src="https://img.shields.io/badge/Open_to_Work-Flutter_%7C_Firebase_%7C_Remote-brightgreen?style=flat&logo=github">
 </p>
@@ -157,6 +158,7 @@ Movies, TV shows and music with offline downloads, playlists and live channels �
 ---
 
 ### 📫 Connect With Me
+- 📄 [My CV / Resume](https://docs.google.com/document/d/1rultkGP_VdsPWzgrrj5HeVb3hY6PIdm_nzfeL9P7w2g/edit?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/atiqul-islam-645732199/)
 - 📧 Email: atiqul58@gmail.com
 - 🔗 GitHub: [github.com/MdAtiqulislam](https://github.com/MdAtiqulislam)
