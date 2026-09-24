@@ -115,16 +115,6 @@ Movies, TV shows and music with offline downloads, playlists and live channels �
 | [ScaleMate](https://github.com/MdAtiqulislam/scale_mate) | Weighing-scale transactions & reports |
 | [Lodora](https://github.com/MdAtiqulislam/lodora) | Product catalog & loading plans |
 
-#### 🏢 Enterprise, ERP & Field Suites
-| App | What it does |
-|---|---|
-| [Universal SaaS](https://github.com/MdAtiqulislam/universal_saas) | Multi-tenant SaaS monorepo (NestJS API + Next.js web + docs) |
-| [CA ERP](https://github.com/MdAtiqulislam/ca_erp) · [FB ERP](https://github.com/MdAtiqulislam/fbmerp) | ERP companions |
-| [SA Officer](https://github.com/MdAtiqulislam/SA_Officer_) · [AV Officer](https://github.com/MdAtiqulislam/av_officer) · [UAI Officer](https://github.com/MdAtiqulislam/uai_officer) · [USA Officer](https://github.com/MdAtiqulislam/usa_officer) · [CA Officer](https://github.com/MdAtiqulislam/ca_officer) | Field-officer suites |
-| [SA Dealer](https://github.com/MdAtiqulislam/sa_dealer) | Dealer app |
-| [Production Report](https://github.com/MdAtiqulislam/production_report) | Factory production reporting |
-| [Academia](https://github.com/MdAtiqulislam/academia_app) · [Skweela](https://github.com/MdAtiqulislam/skweela_app_source) · [LifeCare](https://github.com/MdAtiqulislam/lifecare) | Academy, school & care apps |
-
 ---
 
 ### 📈 GitHub Stats
